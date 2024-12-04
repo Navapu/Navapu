@@ -10,11 +10,13 @@
 - 🎯 Open to collaboration on projects and always looking to improve my skills.  
 
 ## 🛠️ Technologies & Tools
-- **Languages:**
+- **Languages:** Python, JavaScript, Java, Kotlin  
 - **Frontend:** HTML, CSS, Vue.js
 - **Backend:** Node.js, Express
 - **Database:** MySQL, MongoDB
 - **Other Tools:** Git, Docker, GitHub
 
 ## 🔗 Connect with Me
+- 📧 **Email:** drojannp@gmail.com  
+- 🌍 **Location:** Valencia, Spain
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alejandro-navarro-puig-7611891bb/)
