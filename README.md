@@ -1,8 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Alejandro 👋</h1>
 </div>
-<!--
-**Navapu/Navapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## About me
 
