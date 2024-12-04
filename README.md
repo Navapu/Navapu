@@ -17,4 +17,4 @@
 - **Other Tools:** Git, Docker, GitHub
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/alejandro-navarro-puig-7611891bb/))  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alejandro-navarro-puig-7611891bb/)
