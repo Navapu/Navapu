@@ -11,7 +11,7 @@
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript, Java, Kotlin  
-- **Frontend:** HTML, CSS, Vue.js
+- **Frontend:** HTML, CSS, React.js
 - **Backend:** Node.js, Express
 - **Database:** MySQL, MongoDB
 - **Other Tools:** Git, Docker, GitHub
