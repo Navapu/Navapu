@@ -1,22 +1,40 @@
 <div align="center">
-<h1 align="center">Hi, I'm Alejandro 👋</h1>
+  <h1>👋 Hi, I'm Alejandro (Nanobyte)</h1>
+  <p>Junior Full Stack Developer | Web & Multiplatform Apps | Lifelong Learner 🚀</p>
 </div>
 
-## About me
+---
 
-- 💻  **Junior Developer** specializing in web and multiplatform application development.
-- 🌱 Currently learning React and Node.js
-- 🚀 I enjoy working on projects that challenge me and help me grow as a developer
-- 🎯 Open to collaboration on projects and always looking to improve my skills.  
+## 🌟 About Me
+- 💻 **Junior Developer** with experience in web and multiplatform applications.
+- 🌱 **Currently Learning:** React.js & Node.js
+- 🎯 Passionate about challenging projects that push me to improve.
+- 🤝 Open to collaborations, freelance opportunities, and sharing knowledge.
+
+---
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, Java, Kotlin  
-- **Frontend:** HTML, CSS, React.js
-- **Backend:** Node.js, Express
-- **Database:** MySQL, MongoDB
-- **Other Tools:** Git, Docker, GitHub
+
+| Frontend | Backend | Database | Languages | Tools |
+|----------|---------|----------|-----------|-------|
+| HTML, CSS, React.js | Node.js, Express | MySQL, MongoDB | JavaScript, Python, Java, Kotlin | Git, Docker, GitHub |
+
+---
 
 ## 🔗 Connect with Me
-- 📧 **Email:** drojannp@gmail.com
-- 🌍 **Location:** Valencia, Spain
+- 📧 Email: [drojannp@gmail.com](mailto:drojannp@gmail.com)  
+- 🌍 Location: Valencia, Spain  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alejandro-navarro-puig-7611891bb/)
+- [![GitHub followers](https://img.shields.io/github/followers/Navapu?label=Follow&style=social)](https://github.com/Navapu)
+
+---
+
+## 📊 GitHub Stats
+![Alejandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navapu&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navapu&layout=compact&theme=radical)
+
+---
+
+<div align="center">
+  <p>“Code is like humor. When you have to explain it, it’s bad.” 😎</p>
+</div>
