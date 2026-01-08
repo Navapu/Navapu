@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Alejandro (Nanobyte)</h1>
+  <h1>👋 Hi, I'm Alejandro</h1>
   <p>Junior Full Stack Developer | Web & Multiplatform Apps</p>
 </div>
 
