@@ -1,41 +1,82 @@
 <div align="center">
-  <h1>👋 Hi, I'm Alejandro</h1>
-  <p>Junior Full Stack Developer | Web & Multiplatform Apps</p>
+  <h1>👋 Hi, I'm Alejandro Navarro</h1>
+  <p>Full Stack Developer | Backend Architecture & Scalable Web Systems</p>
 </div>
 
 ---
 
-## 🌟 About Me
-- 💻 **Junior Developer** passionate about web and multiplatform applications.
-- 🌱 **Currently Learning:** React.js & Node.js
-- 🎯 I love projects that challenge me and help me grow as a developer.
-- 🤝 Always open to collaboration, freelance projects, and knowledge sharing.
+## 🚀 About Me
+
+Full Stack Developer with a strong focus on backend architecture, scalable systems and real-time applications.
+
+I design and build robust RESTful APIs, implement authentication and payment systems, manage relational and NoSQL databases, and deploy production-ready applications in cloud environments.
+
+My approach is centered on:
+- Clean, maintainable code
+- Performance and scalability
+- System reliability
+- Structured backend architecture
+
+I’m continuously improving my knowledge in DevOps, cloud infrastructure and system design.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧠 Core Competencies
 
-### Frontend
-`HTML` `CSS` `React.js`
+- Backend architecture with Node.js & Express
+- RESTful API design & modular project structure
+- Authentication & authorization (JWT, OAuth)
+- Real-time communication (WebSockets)
+- Subscription & payment systems integration
+- Relational and NoSQL database design
+- Caching & state management with Redis
+- Background processing & async job queues
+- Reverse proxy configuration & production environments
+- Cloud deployment on Microsoft Azure
+
+---
+
+## 🛠️ Tech Stack
 
 ### Backend
-`Node.js` `Express`
+`Node.js` `Express.js` `REST APIs` `WebSockets` `JWT` `Stripe API`
 
-### Database
-`MySQL` `MongoDB`
+### Frontend
+`React.js` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS`
 
-### Languages
-`JavaScript` `Python` `Java` `Kotlin`
+### Databases
+`MySQL` `MongoDB` `Redis`
 
-### Tools & Others
-`Git` `Docker` `GitHub` `VS Code`
+### Cloud & Infrastructure
+`Microsoft Azure` `Azure Virtual Machines` `Nginx` `Docker`
+
+### Development & Tools
+`Git` `GitHub` `Postman` `CI/CD` `Linux`
+
+---
+
+## 🏗️ What I Work On
+
+- Scalable web platforms
+- Real-time systems
+- Cloud-hosted backend services
+- Payment and subscription-based architectures
+- Performance-oriented backend development
 
 ---
 
-## 🔗 Connect with Me
-- 📧 Email: [drojannp@gmail.com](mailto:drojannp@gmail.com)  
-- 🌍 Location: Valencia, Spain  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alejandro-navarro-puig-7611891bb/)  
-- [![GitHub](https://img.shields.io/badge/GitHub-Navapu-black?style=flat-square&logo=github)](https://github.com/Navapu)
+## 📈 Currently Improving
+
+- DevOps practices & automation
+- Infrastructure design
+- Scalable architecture patterns
+- Distributed systems fundamentals
 
 ---
+
+## 🌍 Connect With Me
+
+- 📧 Email: [drojannp@gmail.com](mailto:drojannp@gmail.com)
+- 📍 Valencia, Spain
+- 💼 LinkedIn: https://www.linkedin.com/in/alejandro-navarro-puig-7611891bb/
+- 🧑‍💻 GitHub: https://github.com/Navapu
