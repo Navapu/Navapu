@@ -78,5 +78,5 @@ I’m continuously improving my knowledge in DevOps, cloud infrastructure and sy
 
 - 📧 Email: [drojannp@gmail.com](mailto:drojannp@gmail.com)
 - 📍 Valencia, Spain
-- 💼 LinkedIn: https://www.linkedin.com/in/alejandro-navarro-puig-7611891bb/
+- 💼 LinkedIn: https://www.linkedin.com/in/alejandronavarropuig/
 - 🧑‍💻 GitHub: https://github.com/Navapu
