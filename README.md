@@ -1,82 +1,64 @@
 <div align="center">
   <h1>👋 Hi, I'm Alejandro Navarro</h1>
-  <p>Full Stack Developer | Backend Architecture & Scalable Web Systems</p>
+  <p>Backend-Focused Full Stack Developer | Real-Time Systems | Cloud Infrastructure</p>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-Full Stack Developer with a strong focus on backend architecture, scalable systems and real-time applications.
+I'm a backend engineer specializing in scalable architectures and real-time systems. Currently the sole backend and infrastructure engineer at a tech startup, owning critical production systems — from real-time video streaming platforms to payment processing infrastructure.
 
-I design and build robust RESTful APIs, implement authentication and payment systems, manage relational and NoSQL databases, and deploy production-ready applications in cloud environments.
+I don't just build things that work. I build systems designed to scale, built to last, and architected with intention.
 
-My approach is centered on:
-- Clean, maintainable code
-- Performance and scalability
-- System reliability
-- Structured backend architecture
-
-I’m continuously improving my knowledge in DevOps, cloud infrastructure and system design.
+**What drives me:**
+- Systems that handle complexity without breaking
+- Clean, maintainable code that others can reason about
+- Making technical decisions autonomously
+- Anticipating problems before they become production incidents
 
 ---
 
-## 🧠 Core Competencies
+## 🏗️ Core Skills
 
-- Backend architecture with Node.js & Express
-- RESTful API design & modular project structure
+### Backend & Architecture
+- Node.js backend design with Express.js and NestJS
+- RESTful APIs and microservice architecture
+- Real-time communication (WebSockets, event-driven systems)
+- Async processing with Redis & BullMQ
 - Authentication & authorization (JWT, OAuth)
-- Real-time communication (WebSockets)
-- Subscription & payment systems integration
-- Relational and NoSQL database design
-- Caching & state management with Redis
-- Background processing & async job queues
-- Reverse proxy configuration & production environments
-- Cloud deployment on Microsoft Azure
+- Payment systems integration (Stripe)
 
----
-
-## 🛠️ Tech Stack
-
-### Backend
-`Node.js` `Express.js` `REST APIs` `WebSockets` `JWT` `Stripe API`
-
-### Frontend
-`React.js` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS`
+### Infrastructure & DevOps
+- Cloud architecture on Microsoft Azure (VMs, Storage, Front Door)
+- Nginx configuration (reverse proxy, RTMP/HLS streaming)
+- CI/CD pipelines
+- Linux server management
+- Cost optimization & monitoring
 
 ### Databases
-`MySQL` `MongoDB` `Redis`
+- Relational design (MySQL)
+- NoSQL data modeling (MongoDB)
+- Caching strategies (Redis)
 
-### Cloud & Infrastructure
-`Microsoft Azure` `Azure Virtual Machines` `Nginx` `Docker`
 
-### Development & Tools
-`Git` `GitHub` `Postman` `CI/CD` `Linux`
-
----
-
-## 🏗️ What I Work On
-
-- Scalable web platforms
-- Real-time systems
-- Cloud-hosted backend services
-- Payment and subscription-based architectures
-- Performance-oriented backend development
+## 🛠️ Tech Stack
+**Backend:** Node.js, Express.js, NestJS, TypeScript, REST APIs, WebSockets, JWT, Stripe
+**Frontend:** React.js, Next.js, Tailwind CSS
+**Databases:** MySQL, MongoDB, Redis
+**Cloud:** Microsoft Azure, Nginx, Docker, CI/CD
+**Tools:** Git, GitHub, Postman
 
 ---
 
-## 📈 Currently Improving
-
-- DevOps practices & automation
-- Infrastructure design
-- Scalable architecture patterns
-- Distributed systems fundamentals
+## 📖 Currently Learning
+- NestJS (building towards it as my primary framework)
+- Advanced distributed systems patterns
+- Kubernetes & container orchestration
 
 ---
 
-## 🌍 Connect With Me
-
-- 📧 Email: [drojannp@gmail.com](mailto:drojannp@gmail.com)
-- 📍 Valencia, Spain
-- 💼 LinkedIn: [https://www.linkedin.com/in/alejandronavarropuig/](https://es.linkedin.com/in/alejandronavarropuig)
-- 🧑‍💻 GitHub: https://github.com/Navapu
+## 🌍 Let's Connect
+- **Email:** drojannp@gmail.com
+- **LinkedIn:** [linkedin.com/in/alejandronavarropuig](https://www.linkedin.com/in/alejandronavarropuig/)
+- **Location:** Valencia, Spain
